@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int a = 77;
         int b = 777;
+        ForLoop.startForLoop();
 
         // if with one condition
         if (a > b) {
